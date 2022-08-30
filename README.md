@@ -1,2 +1,2 @@
 PAGINA INICIAL
- <a href="/frase.html"><button>PERTE AQUI:)</button>
+ <a href="/frase.html"><button>PERT AQUI:)</button>
