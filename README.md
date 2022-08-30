@@ -1,10 +1,2 @@
-<html>
-    <head>
-   
-    </head>
-    <body>
-    <h1>NAYANE</h1>
-    <img src="/frase.png" alt="">
-    <a href="/frase.html"><button>PERTE AQUI:)</button>
-    </body>
-</html>
+PAGINA INICIAL
+<a href="/frase.html">
